@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0F5C9E27-9195-C6CF-C532-74F8F0B8DC6D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GabrielAguiarProductions/Unique_MagicAbilities_Volume_1/Scripts/ParticleSystemController/ParticleSystemController.cs">
+    <Files>
+      <File FileName="Assets/GabrielAguiarProductions/Unique_MagicAbilities_Volume_1/Scripts/ParticleSystemController/ParticleSystemController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Visual Effects" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GabrielAguiarProductions" expanded="True">
+                <Node name="Unique_MagicAbilities_Volume_1" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="ParticleSystemController" expanded="True">
+                      <Node name="ParticleSystemController.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e182c39e-d575-4a3b-93d7-f985309fc5a2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

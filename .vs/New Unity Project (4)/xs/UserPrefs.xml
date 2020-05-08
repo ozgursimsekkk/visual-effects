@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6BF92AC6-A09D-02EB-5041-CB33C564EAC2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GabrielAguiarProductions/Unique_MagicAbilities_Volume_1/Shaders/Additive_EdgeSoft.shader">
+    <Files>
+      <File FileName="Assets/GabrielAguiarProductions/Unique_MagicAbilities_Volume_1/Scripts/UniqueProjectiles/ProjectileMoveScript.cs" Line="51" Column="4" />
+      <File FileName="Assets/GabrielAguiarProductions/Unique_MagicAbilities_Volume_1/Shaders/AdditiveMobile_Scroll01.shader" Line="99" Column="40" />
+      <File FileName="Assets/GabrielAguiarProductions/Unique_MagicAbilities_Volume_1/Shaders/Additive_EdgeSoft.shader" Line="78" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project (4)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GabrielAguiarProductions" expanded="True">
+                <Node name="Unique_MagicAbilities_Volume_1" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="UniqueProjectiles" expanded="True" />
+                  </Node>
+                  <Node name="Shaders" expanded="True">
+                    <Node name="Additive_EdgeSoft.shader" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54bb04a9-964d-4a02-b920-fa4693f91171" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
